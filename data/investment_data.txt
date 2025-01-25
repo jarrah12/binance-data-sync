@@ -11,3 +11,19 @@ Asset: USDT, Balance: 950.96170079, Cross Wallet Balance: 950.96170079, Cross Un
 Asset: USDC, Balance: 0.00000000, Cross Wallet Balance: 0.00000000, Cross Unrealized PnL: 0.00000000
 
 Futures Positions:
+
+Open Orders:
+
+Trade History for BTCUSDT:
+
+Funding Fee History:
+Symbol: USDT, Amount: -1.16097096, Time: 1737734400000
+
+Deposit History:
+Withdrawal History:
+
+System Status: normal
+
+Market Data for BTCUSDT:
+Current Price: 105072.60000000, 24h Change: -0.610%, Volume: 11270.17399000
+
